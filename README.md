@@ -8,10 +8,10 @@
 An [express.js]( https://github.com/visionmedia/express ) middleware for
 [validator]( https://github.com/chriso/validator.js ).
 
-- [Installation](#installation)
-- [Documentation](#documentation)
-- [Changelog](#changelog)
-- [License](#license)
+- [Installation](https://express-validator.github.io/docs/index.html)
+- [Documentation](https://express-validator.github.io/docs/)
+- [Changelog](https://github.com/express-validator/express-validator/releases)
+- [License](https://github.com/express-validator/express-validator/blob/master/LICENSE)
 
 ## Installation
 ```
